@@ -12,3 +12,15 @@ Since 2010 the job market has been in an increasing momentum in every state. Som
 * Idaho
 * New York
 * New Jersey
+# Which states are projected to have the lowest projected unemployment rate for the next ten years? 
+Based on a monte carlo simulation, these are the ten states with the lowest unemployment rate average: 
+* North Dakota     2.949
+* Nebraska         3.479
+* South Dakota     3.637
+* Vermont          3.947
+* New Hampshire    4.004
+* Iowa             4.098
+* Hawaii           4.310
+* Utah             4.458
+* Minnesota        4.572
+* Kansas           4.763
