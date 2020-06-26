@@ -1,5 +1,3 @@
-# team_3
-Project 1
 # What is the Economic Outlook over the next 10 years?
 As per the 10,000 Monte Carlo Simulations, rent is supposed to decrease slightly over the next 10 years.
 Cost of living is decreasing over the next 10 years and so is the Confortability Income Threshold, which is the
